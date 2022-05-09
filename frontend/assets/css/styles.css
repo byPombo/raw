@@ -1,0 +1,22 @@
+.produt h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.produt h2 {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.product.mac-dark {
+  background-color: rgb(0,0,0);
+}
+
+.product.dark {
+  color: #fff;
+}
+
+.product.dark a {
+  color: #fff;
+}
+
